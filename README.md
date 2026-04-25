@@ -1,2 +1,2 @@
 # MedCap-app
-An Medicaid capitation rate app that helps calculate , including dashboards, rate-building tools, and VBP performance
+A Medicaid capitation rate app that helps calculate and manage rates, with dashboards, rate-building tools, and VBP performance tracking
