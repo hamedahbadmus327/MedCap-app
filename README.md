@@ -31,4 +31,6 @@ This is an capitation rate app that helps calculate and manage rates, with dashb
 
 The project was developed by: Vy Nguyen, Sameer Singh, Yasmin Mohammed, and Hamedah Badmus.
 
-Live Demo: https://medcap-rate-pulse.base44.app
+**Live Demo:** https://medcap-rate-pulse.base44.app
+
+**PowerPoint:** https://docs.google.com/presentation/d/1_FDm1OuYs9VuCeHxpZHqZc925wZJTqKT/edit?usp=sharing&ouid=103286457500115300980&rtpof=true&sd=true
